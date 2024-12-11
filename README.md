@@ -6,7 +6,7 @@ This is a simple CRUD FastAPI application that uses MongoDB for data storage.
 
 ### 1. Clone the Project
 ```bash
-git clone <repository_url>
+git clone https://github.com/dzrekenathan/fastapi-crud-with-mongo.git
 ```
 
 ### 2. Open the Project Directory
